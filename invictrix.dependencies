@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository":  "PixelExperience-Devices/kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred",
+    "branch": "oreo-mr1"
+  },
+  {
+    "remote": "github",
+    "repository":  "PixelExperience-Devices/vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred",
+    "branch": "oreo-mr1"
+  },
+  {
+    "remote": "github",
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-15.1"
+  },
+  {
+    "remote": "github",
+    "repository": "USA-RedDragon/prebuilts_clang_host_linux-x86_7.0-DragonTC",
+    "target_path": "prebuilts/clang/host/linux-x86/7.0-DragonTC",
+    "branch": "master"
+  }
+]
